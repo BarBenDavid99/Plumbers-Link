@@ -1,22 +1,21 @@
-אודות הפרויקט
-הפרויקט שלי הוא מערכת לדירוג וניהול בעלי מקצוע בתחום האינסטלציה שעובדים עם חברת הסדר ו/או חברת ביטוח מסוימת.
-המטרה היא שליחת לינק עם מדרג השרברבים ללקוח לצורך בחירת בעל מקצוע שיגיע לדירתו ושיקוף המידע ללקוחות בטרם הזמנת בעל מקצוע לדירתם.
+About the project
+My project is a system for rating and managing plumbing professionals who work with a certain settlement company and/or insurance company.
+It is necessary to choose a professional who will come to their apartment and reflect information before inviting a professional to their apartment.
 
-דרכים לפעול במערכת:
-דף בעלי המקצוע -
-בעמוד זה תוכלו לצפות ברשימה של כל הבעלי המקצוע הרשומים במערכת, לסנן אותם על פי אזור, למיין לפי דירוג ועוד.
+work methods:
+Professionals page -
+On this page you should view the list of all registered professionals, filter them by region, sort by rating and more.
 
-ניהול משתמשים -
-יש 3 דרגות משתמש -
-1.מאסטר
-2.אדמין
-3.לקוח
-מאסטר יכול ליצור אדמין חדש לאתר ולהוסיף/לערוך בעלי מקצוע.
-משתמשי האדמין יכולים להוסיף, לערוך ולמחוק בעלי מקצוע מהמערכת לפי הצורך, לצורך כך ישנה אופציה להתחברות למנהלים הרשומים במערכת.
+User Management -
+There are 3 user levels -
+1. Master
+2. Admin
+3. Customer
+A master can create a new admin for the site and add/edit professionals.
+Admin users can add, edit and delete professionals from the system as needed, for this purpose there is a membership option for administrators registered in the system.
 
-דף השרברב -
-כל משתמש יכול לצפות בדף האישי של בעל המקצוע, לראות את הדירוג שלו ואת החוות דעת שנכתבו עליו על ידי משתמשים אחרים.
+the plumber page -
+Any user can view the professional's personal page, see his rating and the opinions written about him by other users.
 
-הוספת חוות דעת -
-כל משתמש יכול להוסיף חוות דעת חדשה על בעל מקצוע מסוים, בתאוריה ובתכנון האמיתי הכוונה היא לחבר אותו לממשק שברגע שמסתיים ביקור בדירת לקוח ישלח אליו הלינק של טופס הוספת חוות דעת מובנה כבר לבעל המקצוע שביקר בדירתו, ברגע שהסקר ימולא חוות הדעת תתווסף לעמוד השרברב.
-
+Adding an opinion -
+Each user can add a new opinion on a specific professional, in theory and planning, the intention is to connect him to the interface that, as soon as a visit to a customer's apartment is finished, the link to the form for adding an opinion is already built in to the professional who visited his apartment, as soon as the survey is filled out, the opinion will be added to the plumber.
