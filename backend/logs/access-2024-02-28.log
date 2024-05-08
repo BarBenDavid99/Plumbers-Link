@@ -1,0 +1,146 @@
+2024-02-28T10:30:19.638Z PUT /plumbers/65df02c33896e67d436a45c4 200 17.152 ms
+Date: 2024-02-28T10:35:42.479Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 200
+Response time: undefined ms
+Date: 2024-02-28T10:36:47.528Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 200
+Response time: undefined ms
+
+
+Date: 2024-02-28T10:37:19.476Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45cd
+Status: 404
+Response time: undefined ms
+
+
+Date: 2024-02-28T10:40:42.663Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45cd
+Status: 404
+Response time: undefined ms 
+
+Date: 2024-02-28T10:43:01.086Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45cd
+Status: 404
+Response time: undefined ms 
+
+Date: 2024-02-28T10:46:03.005Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 200
+Response time: undefined ms 
+
+Date: 2024-02-28T10:50:36.183Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 200
+Response time: ':response-time' ms 
+
+Date: 2024-02-28T10:54:35.622Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 401
+Response time: function responseTime (options) {
+  var opts = options || {}
+
+  if (typeof options === 'number') {
+    // back-compat single number argument
+    deprecate('number argument: use {digits: ' + JSON.stringify(options) + '} instead')
+    opts = { digits: options }
+  }
+
+  // get the function to invoke
+  var fn = typeof opts !== 'function'
+    ? createSetHeader(opts)
+    : opts
+
+  return function responseTime (req, res, next) {
+    var startAt = process.hrtime()
+
+    onHeaders(res, function onHeaders () {
+      var diff = process.hrtime(startAt)
+      var time = diff[0] * 1e3 + diff[1] * 1e-6
+
+      fn(req, res, time)
+    })
+
+    next()
+  }
+} ms 
+
+Date: 2024-02-28T10:54:43.953Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: function responseTime (options) {
+  var opts = options || {}
+
+  if (typeof options === 'number') {
+    // back-compat single number argument
+    deprecate('number argument: use {digits: ' + JSON.stringify(options) + '} instead')
+    opts = { digits: options }
+  }
+
+  // get the function to invoke
+  var fn = typeof opts !== 'function'
+    ? createSetHeader(opts)
+    : opts
+
+  return function responseTime (req, res, next) {
+    var startAt = process.hrtime()
+
+    onHeaders(res, function onHeaders () {
+      var diff = process.hrtime(startAt)
+      var time = diff[0] * 1e3 + diff[1] * 1e-6
+
+      fn(req, res, time)
+    })
+
+    next()
+  }
+} ms 
+
+Date: 2024-02-28T10:55:00.761Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 200
+Response time: function responseTime (options) {
+  var opts = options || {}
+
+  if (typeof options === 'number') {
+    // back-compat single number argument
+    deprecate('number argument: use {digits: ' + JSON.stringify(options) + '} instead')
+    opts = { digits: options }
+  }
+
+  // get the function to invoke
+  var fn = typeof opts !== 'function'
+    ? createSetHeader(opts)
+    : opts
+
+  return function responseTime (req, res, next) {
+    var startAt = process.hrtime()
+
+    onHeaders(res, function onHeaders () {
+      var diff = process.hrtime(startAt)
+      var time = diff[0] * 1e3 + diff[1] * 1e-6
+
+      fn(req, res, time)
+    })
+
+    next()
+  }
+} ms 
+
+Date: 2024-02-28T10:57:29.827Z
+Method: PUT
+Route: /plumbers/65df02c33896e67d436a45c4
+Status: 200
+Response time: 24.064ms ms 
+

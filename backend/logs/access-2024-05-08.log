@@ -1,0 +1,1368 @@
+Date: 2024-05-08T07:43:53.950Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 6.563ms 
+
+Date: 2024-05-08T07:46:26.293Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.695ms 
+
+Date: 2024-05-08T07:46:28.761Z
+Method: GET
+Route: /plumbers
+Status: 200
+Response time: 20.440ms 
+
+Date: 2024-05-08T07:46:29.538Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 8.646ms 
+
+Date: 2024-05-08T07:47:33.933Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.577ms 
+
+Date: 2024-05-08T07:47:36.716Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.588ms 
+
+Date: 2024-05-08T07:48:00.060Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176d9/opinions
+Status: 200
+Response time: 13.063ms 
+
+Date: 2024-05-08T07:48:00.062Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176d9
+Status: 200
+Response time: 16.033ms 
+
+Date: 2024-05-08T07:48:07.606Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 12.252ms 
+
+Date: 2024-05-08T07:48:08.263Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 200
+Response time: 5.077ms 
+
+Date: 2024-05-08T07:48:08.265Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697/opinions
+Status: 200
+Response time: 6.453ms 
+
+Date: 2024-05-08T07:48:11.635Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.120ms 
+
+Date: 2024-05-08T07:48:12.958Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176a7
+Status: 200
+Response time: 3.673ms 
+
+Date: 2024-05-08T07:48:12.959Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176a7/opinions
+Status: 200
+Response time: 5.216ms 
+
+Date: 2024-05-08T07:48:15.292Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.159ms 
+
+Date: 2024-05-08T07:48:16.295Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176ac
+Status: 200
+Response time: 3.964ms 
+
+Date: 2024-05-08T07:48:16.298Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176ac/opinions
+Status: 200
+Response time: 6.752ms 
+
+Date: 2024-05-08T07:48:20.647Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.069ms 
+
+Date: 2024-05-08T07:48:22.997Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.743ms 
+
+Date: 2024-05-08T07:48:32.283Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 144.215ms 
+
+Date: 2024-05-08T07:48:32.307Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 16.605ms 
+
+Date: 2024-05-08T07:48:41.627Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.249ms 
+
+Date: 2024-05-08T07:49:21.573Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 9.314ms 
+
+Date: 2024-05-08T07:49:22.726Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 14.311ms 
+
+Date: 2024-05-08T13:26:35.583Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 7.938ms 
+
+Date: 2024-05-08T13:26:40.125Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 19.160ms 
+
+Date: 2024-05-08T13:26:40.928Z
+Method: GET
+Route: /plumbers
+Status: 200
+Response time: 19.326ms 
+
+Date: 2024-05-08T13:26:42.309Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 12.095ms 
+
+Date: 2024-05-08T13:26:42.777Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 13.825ms 
+
+Date: 2024-05-08T13:26:46.755Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.988ms 
+
+Date: 2024-05-08T13:27:13.076Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.034ms 
+
+Date: 2024-05-08T13:35:46.692Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.872ms 
+
+Date: 2024-05-08T13:35:46.700Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.544ms 
+
+Date: 2024-05-08T13:35:48.955Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.738ms 
+
+Date: 2024-05-08T13:35:48.962Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.782ms 
+
+Date: 2024-05-08T13:37:03.614Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.517ms 
+
+Date: 2024-05-08T13:37:03.622Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.610ms 
+
+Date: 2024-05-08T13:38:58.897Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.287ms 
+
+Date: 2024-05-08T13:38:58.900Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 9.246ms 
+
+Date: 2024-05-08T13:40:05.361Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.002ms 
+
+Date: 2024-05-08T13:40:12.308Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.309ms 
+
+Date: 2024-05-08T13:43:34.367Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.776ms 
+
+Date: 2024-05-08T13:47:04.374Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.850ms 
+
+Date: 2024-05-08T13:47:28.340Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.753ms 
+
+Date: 2024-05-08T13:48:43.337Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.853ms 
+
+Date: 2024-05-08T13:48:49.632Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.079ms 
+
+Date: 2024-05-08T13:48:49.638Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.013ms 
+
+Date: 2024-05-08T13:51:01.343Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.456ms 
+
+Date: 2024-05-08T13:51:11.054Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.533ms 
+
+Date: 2024-05-08T13:51:11.062Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.417ms 
+
+Date: 2024-05-08T13:51:20.125Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.745ms 
+
+Date: 2024-05-08T13:51:20.128Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 7.186ms 
+
+Date: 2024-05-08T13:51:51.281Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.888ms 
+
+Date: 2024-05-08T13:51:51.287Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.495ms 
+
+Date: 2024-05-08T13:52:12.309Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.390ms 
+
+Date: 2024-05-08T13:52:12.315Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.738ms 
+
+Date: 2024-05-08T13:52:36.805Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.081ms 
+
+Date: 2024-05-08T13:52:57.251Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.339ms 
+
+Date: 2024-05-08T13:53:05.589Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.408ms 
+
+Date: 2024-05-08T13:53:09.387Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.125ms 
+
+Date: 2024-05-08T13:53:27.364Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.381ms 
+
+Date: 2024-05-08T13:54:08.382Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.455ms 
+
+Date: 2024-05-08T13:54:08.391Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 11.383ms 
+
+Date: 2024-05-08T14:18:01.064Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.408ms 
+
+Date: 2024-05-08T14:18:06.520Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 8.295ms 
+
+Date: 2024-05-08T14:18:07.749Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 11.844ms 
+
+Date: 2024-05-08T14:18:43.006Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 103.566ms 
+
+Date: 2024-05-08T14:18:43.031Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 16.561ms 
+
+Date: 2024-05-08T14:18:45.711Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 10.585ms 
+
+Date: 2024-05-08T14:18:47.682Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 200
+Response time: 10.219ms 
+
+Date: 2024-05-08T14:19:01.035Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.375ms 
+
+Date: 2024-05-08T14:19:01.036Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 304
+Response time: 4.238ms 
+
+Date: 2024-05-08T14:19:07.182Z
+Method: PUT
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 200
+Response time: 16.131ms 
+
+Date: 2024-05-08T14:19:07.255Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 11.299ms 
+
+Date: 2024-05-08T14:19:11.377Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697/opinions
+Status: 200
+Response time: 2.823ms 
+
+Date: 2024-05-08T14:19:11.378Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 200
+Response time: 3.773ms 
+
+Date: 2024-05-08T14:19:13.392Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.345ms 
+
+Date: 2024-05-08T14:19:14.847Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 304
+Response time: 2.949ms 
+
+Date: 2024-05-08T14:19:33.753Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.411ms 
+
+Date: 2024-05-08T14:19:35.977Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 304
+Response time: 6.703ms 
+
+Date: 2024-05-08T14:19:47.802Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 10.124ms 
+
+Date: 2024-05-08T14:19:50.099Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda1769c
+Status: 200
+Response time: 3.214ms 
+
+Date: 2024-05-08T14:19:54.743Z
+Method: PUT
+Route: /plumbers/6637a54eb8e661d9dda1769c
+Status: 200
+Response time: 10.355ms 
+
+Date: 2024-05-08T14:19:54.805Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 9.768ms 
+
+Date: 2024-05-08T14:19:59.997Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda1769c
+Status: 200
+Response time: 2.824ms 
+
+Date: 2024-05-08T14:20:09.711Z
+Method: GET
+Route: /plumbers
+Status: 200
+Response time: 7.221ms 
+
+Date: 2024-05-08T14:23:53.475Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 6.818ms 
+
+Date: 2024-05-08T14:28:15.198Z
+Method: POST
+Route: /plumbers
+Status: 201
+Response time: 10.346ms 
+
+Date: 2024-05-08T14:28:16.986Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 9.263ms 
+
+Date: 2024-05-08T14:28:38.156Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 6.309ms 
+
+Date: 2024-05-08T14:28:38.166Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 15.634ms 
+
+Date: 2024-05-08T14:28:47.920Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 200
+Response time: 2.329ms 
+
+Date: 2024-05-08T14:28:47.921Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e/opinions
+Status: 200
+Response time: 2.948ms 
+
+Date: 2024-05-08T14:28:54.371Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.309ms 
+
+Date: 2024-05-08T14:28:57.279Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.452ms 
+
+Date: 2024-05-08T14:29:48.301Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.274ms 
+
+Date: 2024-05-08T14:29:53.299Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.476ms 
+
+Date: 2024-05-08T14:29:53.304Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.407ms 
+
+Date: 2024-05-08T14:30:50.230Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.805ms 
+
+Date: 2024-05-08T14:30:51.605Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.634ms 
+
+Date: 2024-05-08T14:30:51.609Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.268ms 
+
+Date: 2024-05-08T14:31:32.382Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.279ms 
+
+Date: 2024-05-08T14:31:35.573Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.393ms 
+
+Date: 2024-05-08T14:31:35.577Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.256ms 
+
+Date: 2024-05-08T14:32:20.592Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.242ms 
+
+Date: 2024-05-08T14:32:55.959Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 3.312ms 
+
+Date: 2024-05-08T14:32:55.960Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.091ms 
+
+Date: 2024-05-08T14:33:28.722Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 4.295ms 
+
+Date: 2024-05-08T14:33:28.723Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.983ms 
+
+Date: 2024-05-08T14:33:56.357Z
+Method: PUT
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 200
+Response time: 5.157ms 
+
+Date: 2024-05-08T14:33:56.451Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.349ms 
+
+Date: 2024-05-08T14:35:46.343Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.423ms 
+
+Date: 2024-05-08T14:36:34.329Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.162ms 
+
+Date: 2024-05-08T14:36:52.424Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.887ms 
+
+Date: 2024-05-08T14:37:10.292Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.814ms 
+
+Date: 2024-05-08T14:37:23.089Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.505ms 
+
+Date: 2024-05-08T14:37:28.903Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.913ms 
+
+Date: 2024-05-08T14:38:40.583Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.417ms 
+
+Date: 2024-05-08T14:39:26.371Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 10.571ms 
+
+Date: 2024-05-08T14:39:31.179Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 200
+Response time: 2.786ms 
+
+Date: 2024-05-08T14:39:31.181Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e/opinions
+Status: 304
+Response time: 3.569ms 
+
+Date: 2024-05-08T14:39:32.870Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.783ms 
+
+Date: 2024-05-08T14:39:38.408Z
+Method: GET
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 304
+Response time: 2.726ms 
+
+Date: 2024-05-08T14:39:48.650Z
+Method: PUT
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 200
+Response time: 4.255ms 
+
+Date: 2024-05-08T14:39:48.713Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 6.588ms 
+
+Date: 2024-05-08T14:40:11.585Z
+Method: DELETE
+Route: /plumbers/663b8bff0d468dd98444c92e
+Status: 200
+Response time: 5.598ms 
+
+Date: 2024-05-08T14:40:14.510Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 8.290ms 
+
+Date: 2024-05-08T14:40:14.512Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 9.448ms 
+
+Date: 2024-05-08T14:41:20.455Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.748ms 
+
+Date: 2024-05-08T14:42:04.949Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.786ms 
+
+Date: 2024-05-08T14:42:48.828Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 4.975ms 
+
+Date: 2024-05-08T14:43:12.410Z
+Method: POST
+Route: /plumbers
+Status: 201
+Response time: 5.544ms 
+
+Date: 2024-05-08T14:43:13.767Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 8.204ms 
+
+Date: 2024-05-08T14:43:30.135Z
+Method: DELETE
+Route: /plumbers/663b8f800d468dd98444cb5d
+Status: 200
+Response time: 2.773ms 
+
+Date: 2024-05-08T14:46:44.112Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 6.208ms 
+
+Date: 2024-05-08T14:47:03.403Z
+Method: POST
+Route: /plumbers
+Status: 201
+Response time: 5.296ms 
+
+Date: 2024-05-08T14:47:04.603Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 6.615ms 
+
+Date: 2024-05-08T14:47:08.111Z
+Method: DELETE
+Route: /plumbers/663b90670d468dd98444cb9d
+Status: 200
+Response time: 4.185ms 
+
+Date: 2024-05-08T14:48:20.301Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 10.210ms 
+
+Date: 2024-05-08T14:48:28.211Z
+Method: GET
+Route: /plumbers
+Status: 200
+Response time: 6.403ms 
+
+Date: 2024-05-08T14:48:48.706Z
+Method: POST
+Route: /plumbers
+Status: 201
+Response time: 4.593ms 
+
+Date: 2024-05-08T14:48:50.416Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 12.183ms 
+
+Date: 2024-05-08T14:48:54.047Z
+Method: DELETE
+Route: /plumbers/663b90d00d468dd98444cbfa
+Status: 200
+Response time: 2.958ms 
+
+Date: 2024-05-08T14:49:25.664Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 5.292ms 
+
+Date: 2024-05-08T14:51:07.888Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.920ms 
+
+Date: 2024-05-08T14:52:15.507Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.159ms 
+
+Date: 2024-05-08T14:53:06.269Z
+Method: GET
+Route: /plumbers
+Status: 200
+Response time: 6.615ms 
+
+Date: 2024-05-08T14:53:09.455Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.588ms 
+
+Date: 2024-05-08T14:53:10.288Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.018ms 
+
+Date: 2024-05-08T14:53:11.674Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.754ms 
+
+Date: 2024-05-08T14:53:12.744Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.914ms 
+
+Date: 2024-05-08T15:33:28.889Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.453ms 
+
+Date: 2024-05-08T15:33:30.944Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 6.949ms 
+
+Date: 2024-05-08T15:33:32.002Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.021ms 
+
+Date: 2024-05-08T15:35:19.008Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 4.378ms 
+
+Date: 2024-05-08T15:36:41.809Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 5.960ms 
+
+Date: 2024-05-08T15:36:43.308Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.553ms 
+
+Date: 2024-05-08T15:36:44.697Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 11.072ms 
+
+Date: 2024-05-08T15:36:46.021Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 12.529ms 
+
+Date: 2024-05-08T15:36:46.633Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.101ms 
+
+Date: 2024-05-08T15:36:49.079Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.317ms 
+
+Date: 2024-05-08T15:36:50.784Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.071ms 
+
+Date: 2024-05-08T15:37:03.118Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.752ms 
+
+Date: 2024-05-08T15:37:04.054Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 11.092ms 
+
+Date: 2024-05-08T15:38:28.126Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 4.452ms 
+
+Date: 2024-05-08T15:39:28.753Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.756ms 
+
+Date: 2024-05-08T15:40:31.882Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.608ms 
+
+Date: 2024-05-08T15:41:14.267Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.538ms 
+
+Date: 2024-05-08T15:42:01.762Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.267ms 
+
+Date: 2024-05-08T15:42:49.089Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.492ms 
+
+Date: 2024-05-08T15:47:00.477Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 9.273ms 
+
+Date: 2024-05-08T15:49:17.644Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.082ms 
+
+Date: 2024-05-08T15:49:50.585Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 17.276ms 
+
+Date: 2024-05-08T15:49:58.137Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.525ms 
+
+Date: 2024-05-08T15:51:13.338Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.335ms 
+
+Date: 2024-05-08T15:51:32.306Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.891ms 
+
+Date: 2024-05-08T15:52:00.011Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 9.049ms 
+
+Date: 2024-05-08T15:52:01.469Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 6.248ms 
+
+Date: 2024-05-08T15:52:03.437Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.504ms 
+
+Date: 2024-05-08T15:56:03.925Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.027ms 
+
+Date: 2024-05-08T15:56:43.620Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.195ms 
+
+Date: 2024-05-08T15:56:46.050Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.266ms 
+
+Date: 2024-05-08T15:56:49.275Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.108ms 
+
+Date: 2024-05-08T15:58:50.096Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.873ms 
+
+Date: 2024-05-08T15:58:51.157Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 6.792ms 
+
+Date: 2024-05-08T15:58:53.039Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 6.398ms 
+
+Date: 2024-05-08T16:06:38.633Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.918ms 
+
+Date: 2024-05-08T16:06:39.417Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.944ms 
+
+Date: 2024-05-08T16:06:56.941Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.608ms 
+
+Date: 2024-05-08T16:07:57.034Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.146ms 
+
+Date: 2024-05-08T16:07:58.460Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.267ms 
+
+Date: 2024-05-08T16:08:00.192Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.453ms 
+
+Date: 2024-05-08T16:09:00.572Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 7.978ms 
+
+Date: 2024-05-08T16:09:01.724Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.229ms 
+
+Date: 2024-05-08T16:11:14.352Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.256ms 
+
+Date: 2024-05-08T16:11:47.805Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 7.420ms 
+
+Date: 2024-05-08T16:11:48.667Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.140ms 
+
+Date: 2024-05-08T16:11:51.363Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 6.339ms 
+
+Date: 2024-05-08T16:12:21.463Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 6.969ms 
+
+Date: 2024-05-08T16:12:22.330Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.424ms 
+
+Date: 2024-05-08T16:14:43.104Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697
+Status: 304
+Response time: 3.018ms 
+
+Date: 2024-05-08T16:14:43.105Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda17697/opinions
+Status: 304
+Response time: 3.971ms 
+
+Date: 2024-05-08T16:15:05.892Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 5.909ms 
+
+Date: 2024-05-08T16:15:08.387Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 4.947ms 
+
+Date: 2024-05-08T16:15:09.856Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 4.968ms 
+
+Date: 2024-05-08T16:37:51.971Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 67.751ms 
+
+Date: 2024-05-08T16:37:51.981Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.117ms 
+
+Date: 2024-05-08T16:38:36.128Z
+Method: POST
+Route: /plumbers
+Status: 403
+Response time: 2.707ms 
+
+Date: 2024-05-08T16:40:55.654Z
+Method: POST
+Route: //onlyAdmin/signup
+Status: 404
+Response time: 1.386ms 
+
+Date: 2024-05-08T16:41:09.117Z
+Method: POST
+Route: //onlyAdmin/signup
+Status: 404
+Response time: 0.354ms 
+
+Date: 2024-05-08T16:41:29.852Z
+Method: POST
+Route: /onlyAdmin/signup
+Status: 200
+Response time: 74.600ms 
+
+Date: 2024-05-08T16:41:42.240Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 90.008ms 
+
+Date: 2024-05-08T16:41:42.250Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 2.751ms 
+
+Date: 2024-05-08T16:45:04.277Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 89.890ms 
+
+Date: 2024-05-08T16:45:04.288Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.186ms 
+
+Date: 2024-05-08T16:48:22.617Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 5.862ms 
+
+Date: 2024-05-08T16:52:29.045Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.635ms 
+
+Date: 2024-05-08T16:55:19.532Z
+Method: POST
+Route: /onlyAdmin/signup
+Status: 200
+Response time: 149.708ms 
+
+Date: 2024-05-08T16:55:26.039Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 97.189ms 
+
+Date: 2024-05-08T16:55:26.058Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 8.598ms 
+
+Date: 2024-05-08T16:55:37.869Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 84.830ms 
+
+Date: 2024-05-08T16:55:37.885Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.527ms 
+
+Date: 2024-05-08T16:55:57.823Z
+Method: GET
+Route: /plumbers
+Status: 304
+Response time: 14.330ms 
+
+Date: 2024-05-08T16:57:04.503Z
+Method: POST
+Route: /plumbers/6637a54eb8e661d9dda176b6/opinions
+Status: 201
+Response time: 33.524ms 
+
+Date: 2024-05-08T16:57:04.576Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 12.584ms 
+
+Date: 2024-05-08T16:57:07.361Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176b6/opinions
+Status: 200
+Response time: 5.022ms 
+
+Date: 2024-05-08T16:57:07.363Z
+Method: GET
+Route: /plumbers/6637a54eb8e661d9dda176b6
+Status: 200
+Response time: 6.578ms 
+
+Date: 2024-05-08T16:57:09.523Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 8.950ms 
+

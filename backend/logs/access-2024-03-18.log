@@ -1,0 +1,252 @@
+Date: 2024-03-18T17:57:16.458Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 6.778ms 
+
+Date: 2024-03-18T17:57:18.334Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.072ms 
+
+Date: 2024-03-18T17:57:34.690Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 126.916ms 
+
+Date: 2024-03-18T17:57:37.826Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 112.876ms 
+
+Date: 2024-03-18T17:57:37.849Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 13.717ms 
+
+Date: 2024-03-18T18:00:43.519Z
+Method: POST
+Route: /onlyAdmin/signup
+Status: 401
+Response time: 0.380ms 
+
+Date: 2024-03-18T18:15:31.516Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 79.134ms 
+
+Date: 2024-03-18T18:15:34.134Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 102.649ms 
+
+Date: 2024-03-18T18:15:34.146Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.282ms 
+
+Date: 2024-03-18T18:17:23.569Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.139ms 
+
+Date: 2024-03-18T18:18:13.696Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.091ms 
+
+Date: 2024-03-18T18:18:19.733Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.139ms 
+
+Date: 2024-03-18T18:21:09.499Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 79.368ms 
+
+Date: 2024-03-18T18:21:10.779Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 78.086ms 
+
+Date: 2024-03-18T18:21:10.791Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.210ms 
+
+Date: 2024-03-18T19:22:31.288Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.152ms 
+
+Date: 2024-03-18T19:22:38.057Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 81.910ms 
+
+Date: 2024-03-18T19:22:38.071Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.811ms 
+
+Date: 2024-03-18T19:31:18.424Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 6.481ms 
+
+Date: 2024-03-18T19:38:31.161Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 5.041ms 
+
+Date: 2024-03-18T19:43:29.043Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 5.484ms 
+
+Date: 2024-03-18T19:48:13.810Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.794ms 
+
+Date: 2024-03-18T19:51:18.078Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 6.967ms 
+
+Date: 2024-03-18T19:53:41.261Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.812ms 
+
+Date: 2024-03-18T19:58:31.315Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.969ms 
+
+Date: 2024-03-18T20:00:02.190Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.716ms 
+
+Date: 2024-03-18T20:02:41.366Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 6.221ms 
+
+Date: 2024-03-18T20:08:14.366Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.997ms 
+
+Date: 2024-03-18T20:11:43.611Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.606ms 
+
+Date: 2024-03-18T20:14:56.410Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 5.558ms 
+
+Date: 2024-03-18T20:17:46.941Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.947ms 
+
+Date: 2024-03-18T20:18:26.982Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.976ms 
+
+Date: 2024-03-18T20:24:37.579Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.583ms 
+
+Date: 2024-03-18T20:24:49.681Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 70.547ms 
+
+Date: 2024-03-18T20:24:49.693Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.831ms 
+
+Date: 2024-03-18T20:24:56.907Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.659ms 
+
+Date: 2024-03-18T20:25:24.231Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 5.027ms 
+
+Date: 2024-03-18T20:25:48.906Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.201ms 
+
+Date: 2024-03-18T20:27:49.514Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 3.544ms 
+
+Date: 2024-03-18T20:30:38.271Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 5.140ms 
+
+Date: 2024-03-18T20:33:37.256Z
+Method: POST
+Route: /plumbers
+Status: 201
+Response time: 24.896ms 
+
+Date: 2024-03-18T20:34:57.627Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 4.926ms 
+

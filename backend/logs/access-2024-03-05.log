@@ -1,0 +1,510 @@
+Date: 2024-03-05T18:16:43.304Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 3.663ms 
+
+Date: 2024-03-05T18:21:46.201Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.285ms 
+
+Date: 2024-03-05T18:23:08.180Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.810ms 
+
+Date: 2024-03-05T18:23:09.219Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.911ms 
+
+Date: 2024-03-05T18:24:49.241Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.547ms 
+
+Date: 2024-03-05T18:24:54.329Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.143ms 
+
+Date: 2024-03-05T18:26:34.271Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 129.217ms 
+
+Date: 2024-03-05T18:26:37.652Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.889ms 
+
+Date: 2024-03-05T18:26:38.736Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.062ms 
+
+Date: 2024-03-05T18:28:14.465Z
+Method: POST
+Route: /onlyAdmin/me
+Status: 404
+Response time: 0.532ms 
+
+Date: 2024-03-05T18:28:21.031Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.201ms 
+
+Date: 2024-03-05T18:28:37.656Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 70.507ms 
+
+Date: 2024-03-05T18:29:37.649Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 0.604ms 
+
+Date: 2024-03-05T18:30:17.543Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 4.468ms 
+
+Date: 2024-03-05T18:30:24.913Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 3.325ms 
+
+Date: 2024-03-05T18:30:26.254Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 0.919ms 
+
+Date: 2024-03-05T18:30:27.088Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 0.638ms 
+
+Date: 2024-03-05T18:30:28.332Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 0.849ms 
+
+Date: 2024-03-05T18:30:55.098Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 3.621ms 
+
+Date: 2024-03-05T18:31:01.153Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 5.389ms 
+
+Date: 2024-03-05T18:31:37.358Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 1.133ms 
+
+Date: 2024-03-05T18:31:44.338Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 89.594ms 
+
+Date: 2024-03-05T18:32:02.491Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 81.801ms 
+
+Date: 2024-03-05T18:32:07.106Z
+Method: POST
+Route: /onlyAdmin/me
+Status: 404
+Response time: 1.317ms 
+
+Date: 2024-03-05T18:32:12.027Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 2.330ms 
+
+Date: 2024-03-05T18:32:20.988Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 79.971ms 
+
+Date: 2024-03-05T18:32:42.820Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 75.911ms 
+
+Date: 2024-03-05T18:34:06.799Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 82.136ms 
+
+Date: 2024-03-05T18:34:46.861Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 403
+Response time: 21.496ms 
+
+Date: 2024-03-05T18:34:48.055Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 403
+Response time: 3.346ms 
+
+Date: 2024-03-05T18:34:59.047Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 403
+Response time: 4.419ms 
+
+Date: 2024-03-05T18:35:42.676Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 84.731ms 
+
+Date: 2024-03-05T18:35:59.118Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 403
+Response time: 4.333ms 
+
+Date: 2024-03-05T18:36:52.409Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 403
+Response time: 4.155ms 
+
+Date: 2024-03-05T18:37:13.906Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 19.698ms 
+
+Date: 2024-03-05T18:38:21.948Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 401
+Response time: 1.401ms 
+
+Date: 2024-03-05T18:38:34.261Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 2.120ms 
+
+Date: 2024-03-05T18:38:35.169Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 1.063ms 
+
+Date: 2024-03-05T18:38:42.837Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 2.718ms 
+
+Date: 2024-03-05T18:39:04.747Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 4.668ms 
+
+Date: 2024-03-05T18:39:05.996Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 2.000ms 
+
+Date: 2024-03-05T18:39:12.681Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 5.080ms 
+
+Date: 2024-03-05T18:39:18.330Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 97.754ms 
+
+Date: 2024-03-05T18:39:23.253Z
+Method: PUT
+Route: /onlyAdmin/65deefc26bbe151acc2cb710
+Status: 403
+Response time: 1.741ms 
+
+Date: 2024-03-05T18:39:53.679Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 1.634ms 
+
+Date: 2024-03-05T18:39:54.606Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 1.472ms 
+
+Date: 2024-03-05T18:40:58.647Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 1.983ms 
+
+Date: 2024-03-05T18:40:59.682Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 1.348ms 
+
+Date: 2024-03-05T18:41:00.644Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 2.243ms 
+
+Date: 2024-03-05T18:41:01.298Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 2.253ms 
+
+Date: 2024-03-05T18:41:01.762Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 1.868ms 
+
+Date: 2024-03-05T18:41:15.713Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 75.266ms 
+
+Date: 2024-03-05T18:41:20.706Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 7.842ms 
+
+Date: 2024-03-05T18:41:37.230Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 2.100ms 
+
+Date: 2024-03-05T18:41:51.926Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 4.600ms 
+
+Date: 2024-03-05T18:41:52.782Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 2.152ms 
+
+Date: 2024-03-05T18:41:53.455Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 0.935ms 
+
+Date: 2024-03-05T18:41:54.119Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 1.716ms 
+
+Date: 2024-03-05T18:42:28.202Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 403
+Response time: 7.764ms 
+
+Date: 2024-03-05T18:42:54.898Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 200
+Response time: 16.031ms 
+
+Date: 2024-03-05T18:43:00.631Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 200
+Response time: 7.719ms 
+
+Date: 2024-03-05T18:43:17.123Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 200
+Response time: 4.533ms 
+
+Date: 2024-03-05T18:43:18.210Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 200
+Response time: 4.045ms 
+
+Date: 2024-03-05T18:44:20.889Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 200
+Response time: 13.264ms 
+
+Date: 2024-03-05T18:44:21.628Z
+Method: PUT
+Route: /onlyAdmin/65deeb1836ffea36292662b0
+Status: 200
+Response time: 5.766ms 
+
+Date: 2024-03-05T18:45:26.122Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 3.183ms 
+
+Date: 2024-03-05T18:46:07.719Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.734ms 
+
+Date: 2024-03-05T18:46:40.237Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.078ms 
+
+Date: 2024-03-05T18:47:45.060Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.407ms 
+
+Date: 2024-03-05T18:49:04.648Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.937ms 
+
+Date: 2024-03-05T18:49:20.996Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.015ms 
+
+Date: 2024-03-05T18:49:35.356Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.858ms 
+
+Date: 2024-03-05T18:49:42.921Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.247ms 
+
+Date: 2024-03-05T18:49:55.722Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.688ms 
+
+Date: 2024-03-05T18:50:48.208Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.739ms 
+
+Date: 2024-03-05T18:52:07.221Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.798ms 
+
+Date: 2024-03-05T18:52:11.649Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.822ms 
+
+Date: 2024-03-05T18:52:40.622Z
+Method: GET
+Route: /onlyAdmin/login
+Status: 401
+Response time: 1.074ms 
+
+Date: 2024-03-05T18:52:40.690Z
+Method: GET
+Route: /favicon.ico
+Status: 404
+Response time: 1.216ms 
+
+Date: 2024-03-05T18:52:55.362Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.854ms 
+
+Date: 2024-03-05T18:52:56.964Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.717ms 
+
+Date: 2024-03-05T18:52:57.850Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.257ms 
+
+Date: 2024-03-05T18:52:58.061Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.933ms 
+
+Date: 2024-03-05T18:53:04.104Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 0.807ms 
+
+Date: 2024-03-13T10:10:31.191Z
+Method: GET
+Route: /adminOnly/me
+Status: 404
+Response time: 1.299ms 
+
