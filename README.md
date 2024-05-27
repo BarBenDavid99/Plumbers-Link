@@ -1,64 +1,95 @@
 API Documentation
+
 Base URL: http://localhost:3000
 
 Registration (Admin Only)
+
 Endpoint: POST /onlyAdmin/signup
 
 Requires Master Admin authentication
+
 Example Request Body:
+
 json
+
 {
   "name": { "first": "John", "last": "Doe" },
   "phone": "1234567890",
   "email": "john.doe@example.com",
   "password": "Aa12345!"
 }
+
 Login
+
 Endpoint: POST /onlyAdmin/login
 
 Example Request Body:
+
 json
+
 {
   "email": "admin@example.com",
   "password": "Aa12345!"
 }
+
 Example Response:
+
 json
 {
   "token": "jwt_token_here"
 }
+
 Get Current Admin
+
 Endpoint: GET /onlyAdmin/me
 
 Requires Authentication (Use the token from login)
+
 Get All Admins
+
 Endpoint: GET /onlyAdmin
 
+
 Requires Authentication
+
 Get Admin by ID
+
 Endpoint: GET /onlyAdmin/:id
 
 Requires Authentication
+
 Update Admin by ID
+
 Endpoint: PUT /onlyAdmin/:id
 
 Requires Authentication
+
 Example Request Body:
+
 json
+
 {
   "name": { "first": "Jane", "last": "Doe" },
   "phone": "0987654321"
 }
 Delete Admin by ID
+
 Endpoint: DELETE /onlyAdmin/:id
 
 Requires Authentication (Master Admin or Self)
+
 Example Seeded Users
+
 Master Admin
+
 Email: masteradmin@example.com
+
 Password: Aa12345!
+
 Regular Admin
+
 Email: admin@example.com
+
 Password: Aa12345!
 
 About the project
