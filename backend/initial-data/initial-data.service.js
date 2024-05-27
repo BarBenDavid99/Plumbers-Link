@@ -1,10 +1,12 @@
 const { Plumber } = require('../handlers/plumber/plumber.model');
+const bcrypt = require('bcrypt');
 const Opinion = require('../handlers/opinions/opinion.model');
-
-const { plumbers, opinions } = require('./initial-data.json');
+const { Admin } = require('../handlers/admin/admin.model');
+const { plumbers, opinions, admins } = require('./initial-data.json');
 
 const initialDataStart = async () => {
     const plumberAmount = await Plumber.countDocuments();
+    const adminAmount = await Admin.countDocuments();
 
     if (!plumberAmount) {
 
@@ -44,6 +46,14 @@ const initialDataStart = async () => {
             }
         }
     }
-}
+    if (!adminAmount) {
+        for (const a of admins) {
+            const hashedPassword = await bcrypt.hash(a.password, 10);
+            const admin = new Admin({ ...a, password: hashedPassword });
+            await admin.save();
+        }
+    }
+};
 
-initialDataStart();
+module.exports = initialDataStart;
+

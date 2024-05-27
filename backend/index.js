@@ -6,11 +6,14 @@ const morgan = require('morgan');
 const fs = require('fs');
 const path = require('path');
 const responseTime = require('response-time');
+const initialDataStart = require('./initial-data/initial-data.service');
+
 
 
 async function main() {
     await mongoose.connect(process.env.REMOTE_URL);
     console.log('mongodb connection established on port 27017');
+    await initialDataStart();
 }
 
 main().catch(err => console.log(err));

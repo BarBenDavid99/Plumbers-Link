@@ -1,0 +1,60 @@
+Date: 2024-05-27T21:55:45.247Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 23.736ms 
+
+Date: 2024-05-27T21:56:06.922Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 304
+Response time: 43.995ms 
+
+Date: 2024-05-27T21:57:33.814Z
+Method: GET
+Route: /plumbers?sortBy=null
+Status: 200
+Response time: 44.600ms 
+
+Date: 2024-05-27T21:57:33.824Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 401
+Response time: 46.441ms 
+
+Date: 2024-05-27T21:58:07.094Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 192.183ms 
+
+Date: 2024-05-27T21:58:07.115Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 8.775ms 
+
+Date: 2024-05-27T21:59:24.446Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 188.853ms 
+
+Date: 2024-05-27T21:59:26.132Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 168.526ms 
+
+Date: 2024-05-27T21:59:30.129Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 172.615ms 
+
+Date: 2024-05-27T22:01:19.219Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 403
+Response time: 96.761ms 
+
