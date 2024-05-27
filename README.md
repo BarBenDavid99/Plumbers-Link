@@ -1,6 +1,6 @@
 API Documentation
 
-~Example Seeded Users~
+*Example Seeded Users*
 
 Master Admin
 
