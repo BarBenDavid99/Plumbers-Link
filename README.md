@@ -1,5 +1,19 @@
 API Documentation
 
+Example Seeded Users
+
+Master Admin
+
+Email: masteradmin@example.com
+
+Password: Aa12345!
+
+Regular Admin
+
+Email: admin@example.com
+
+Password: Aa12345!
+
 Base URL: http://localhost:3000
 
 Registration (Admin Only)
@@ -77,20 +91,6 @@ Delete Admin by ID
 Endpoint: DELETE /onlyAdmin/:id
 
 Requires Authentication (Master Admin or Self)
-
-Example Seeded Users
-
-Master Admin
-
-Email: masteradmin@example.com
-
-Password: Aa12345!
-
-Regular Admin
-
-Email: admin@example.com
-
-Password: Aa12345!
 
 About the project
 
