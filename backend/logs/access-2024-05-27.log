@@ -58,3 +58,15 @@ Route: /onlyAdmin/login
 Status: 403
 Response time: 96.761ms 
 
+Date: 2024-05-27T22:01:38.649Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 196.244ms 
+
+Date: 2024-05-27T22:01:38.675Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 14.809ms 
+
