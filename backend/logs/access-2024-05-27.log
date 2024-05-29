@@ -70,3 +70,15 @@ Route: /onlyAdmin/me
 Status: 200
 Response time: 14.809ms 
 
+Date: 2024-05-27T22:17:59.285Z
+Method: POST
+Route: /onlyAdmin/login
+Status: 200
+Response time: 176.559ms 
+
+Date: 2024-05-27T22:17:59.304Z
+Method: GET
+Route: /onlyAdmin/me
+Status: 200
+Response time: 7.811ms 
+
